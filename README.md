@@ -5,7 +5,8 @@ Description: Analyze the impact of student demographics and school characteristi
 <!-- INTRODUCTION -->
 ## I. INTRODUCTION
 This is a group project including Kylie Snow, Sonia-Deepak Patel, Hemasri Appavu-Krishnaraju, and Huy Nguyen (me).<br />
-Date: 2-Nov-2023 <br />
+Proposed by Huy on Oct-2023. <br />
+Date: 2-Nov-2023. <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- II. DEFINITION OF BUSINESS PROBLEM -->
@@ -25,19 +26,34 @@ Analyzing academic achievement and identifying student demographics and school c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-III. Project Objectives
-3.1 Identify Disparities in Academic Achievement: Analyze student achievement data for grade 3 and 6 EQAO reading, writing, and mathematics, grade 9 EQAO academic and applied results, and grade 10 OSSLT scores to identify disparities among different schools and student groups.
-3.2 Explore the Impact of School Characteristics: Examine how school characteristics (such as school board, location, size) impact student achievement. Are there patterns in achievement based on school attributes?
-3.3 Investigate the Effect of Student Demographics: Investigate the relationship between student demographics (parental background, special education services, first language spoken, and new students to Canada) and academic performance. Are there specific demographic factors that correlate with higher or lower achievement?
-3.4 Provide Recommendations for Interventions and Resource Allocation: Based on the insights gained, recommend interventions and resource allocation strategies to address achievement disparities. For example, should specific schools receive additional resources or support programs based on their unique challenges?
-3.5 Predictive Analytics: Build predictive models to forecast student achievement based on various factors, allowing schools to identify at-risk students early and implement targeted interventions.
-3.6 Trends Analysis: Analyze trends over multiple years to identify any improvements or deterioration in academic achievement, enabling schools to adapt their strategies accordingly.
+<!-- III. PROJECT OBJECTIVES -->
+## III. PROJECT OBJECTIVES
 
-IV. Description of Data
-4.1 Data Sources
+### 3.1 Identify Disparities in Academic Achievement: Analyze student achievement data for grade 3 and 6 EQAO reading, writing, and mathematics, grade 9 EQAO academic and applied results, and grade 10 OSSLT scores to identify disparities among different schools and student groups.
+
+### 3.2 Explore the Impact of School Characteristics: Examine how school characteristics (such as school board, location, size) impact student achievement. Are there patterns in achievement based on school attributes?
+
+### 3.3 Investigate the Effect of Student Demographics: Investigate the relationship between student demographics (parental background, special education services, first language spoken, and new students to Canada) and academic performance. Are there specific demographic factors that correlate with higher or lower achievement?
+
+### 3.4 Provide Recommendations for Interventions and Resource Allocation: Based on the insights gained, recommend interventions and resource allocation strategies to address achievement disparities. For example, should specific schools receive additional resources or support programs based on their unique challenges?
+
+### 3.5 Predictive Analytics: Build predictive models to forecast student achievement based on various factors, allowing schools to identify at-risk students early and implement targeted interventions.
+
+### 3.6 Trends Analysis: Analyze trends over multiple years to identify any improvements or deterioration in academic achievement, enabling schools to adapt their strategies accordingly.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- IV. DESCRIPTION OF DATA -->
+## IV. DESCRIPTION OF DATA
+
+### 4.1 Data Sources
+
 The data source is School Information and Student Demographics and is obtained from the Government of Ontario Data Catalogue: https://data.ontario.ca/dataset/school-information-and-student-demographics. The data is reported by individual schools, school boards, EQAO and Statistics Canada and processed by the Government of Ontario (Government of Ontario, 2023). 
-4.2 Data Description
+
+### 4.2 Data Description
+
 There is 5 school years of data available from 2017-2018 to 2021-2022 for public, Roman Catholic, publicly funded hospitals, and provincial schools (Government of Ontario, 2023). 
+
 The Data includes: 
 •	School board information
 •	School information 
@@ -47,9 +63,14 @@ The Data includes:
 •	Student demographic percentages for student parents, special education, first language spoken and new students to Canada.  (Government of Ontario, 2023)
 The data excludes private schools, Education and Community Partnership Programs (ECPP), summer and night schools (Government of Ontario, 2023). 
 
-V. Data Analysis
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- V. DATA ANALYSIS -->
+## V. DATA ANALYSIS
+
 It's essential to preprocess the data, perform cross-validation, and evaluate the models using appropriate metrics (e.g., RMSE, R-squared) to determine which machine learning technique works best. Additionally, may need to combine and fine-tune these techniques to achieve the best results.
 Below are some machine learning techniques that are well-suited for this problem:
+
 1.	Linear Regression
 2.	Decision Trees
 3.	Random Forest
