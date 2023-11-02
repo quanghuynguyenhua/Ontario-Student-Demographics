@@ -9,6 +9,7 @@ Date: 2-Nov-2023
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- II. DEFINITION OF THE BUSINESS PROBLEM -->
+## II. DEFINITION OF THE BUSINESS PROBLEM
 2.1 Business Problem
 Analyze the impact of student demographics and school characteristics on academic achievement. 
 2.2 Context
