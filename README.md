@@ -29,17 +29,29 @@ Analyzing academic achievement and identifying student demographics and school c
 <!-- III. PROJECT OBJECTIVES -->
 ## III. PROJECT OBJECTIVES
 
-### 3.1 Identify Disparities in Academic Achievement: Analyze student achievement data for grade 3 and 6 EQAO reading, writing, and mathematics, grade 9 EQAO academic and applied results, and grade 10 OSSLT scores to identify disparities among different schools and student groups.
+### 3.1 Identify Disparities in Academic Achievement: 
 
-### 3.2 Explore the Impact of School Characteristics: Examine how school characteristics (such as school board, location, size) impact student achievement. Are there patterns in achievement based on school attributes?
+Analyze student achievement data for grade 3 and 6 EQAO reading, writing, and mathematics, grade 9 EQAO academic and applied results, and grade 10 OSSLT scores to identify disparities among different schools and student groups.
 
-### 3.3 Investigate the Effect of Student Demographics: Investigate the relationship between student demographics (parental background, special education services, first language spoken, and new students to Canada) and academic performance. Are there specific demographic factors that correlate with higher or lower achievement?
+### 3.2 Explore the Impact of School Characteristics: 
 
-### 3.4 Provide Recommendations for Interventions and Resource Allocation: Based on the insights gained, recommend interventions and resource allocation strategies to address achievement disparities. For example, should specific schools receive additional resources or support programs based on their unique challenges?
+Examine how school characteristics (such as school board, location, size) impact student achievement. Are there patterns in achievement based on school attributes?
 
-### 3.5 Predictive Analytics: Build predictive models to forecast student achievement based on various factors, allowing schools to identify at-risk students early and implement targeted interventions.
+### 3.3 Investigate the Effect of Student Demographics: 
 
-### 3.6 Trends Analysis: Analyze trends over multiple years to identify any improvements or deterioration in academic achievement, enabling schools to adapt their strategies accordingly.
+Investigate the relationship between student demographics (parental background, special education services, first language spoken, and new students to Canada) and academic performance. Are there specific demographic factors that correlate with higher or lower achievement?
+
+### 3.4 Provide Recommendations for Interventions and Resource Allocation: 
+
+Based on the insights gained, recommend interventions and resource allocation strategies to address achievement disparities. For example, should specific schools receive additional resources or support programs based on their unique challenges?
+
+### 3.5 Predictive Analytics: 
+
+Build predictive models to forecast student achievement based on various factors, allowing schools to identify at-risk students early and implement targeted interventions.
+
+### 3.6 Trends Analysis: 
+
+Analyze trends over multiple years to identify any improvements or deterioration in academic achievement, enabling schools to adapt their strategies accordingly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
