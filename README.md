@@ -4,14 +4,14 @@ Description: Analyze the impact of student demographics and school characteristi
 
 <!-- INTRODUCTION -->
 ## I. INTRODUCTION
-This is a group project including Kylie Snow, Sonia-Deepak Patel, Hemasri Appavu-Krishnaraju, and Huy Nguyen (me).
-Date: 2-Nov-2023
+This is a group project including Kylie Snow, Sonia-Deepak Patel, Hemasri Appavu-Krishnaraju, and Huy Nguyen (me).<br />
+Date: 2-Nov-2023 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- II. DEFINITION OF THE BUSINESS PROBLEM -->
-## II. DEFINITION OF THE BUSINESS PROBLEM
+<!-- II. DEFINITION OF BUSINESS PROBLEM -->
+## II. DEFINITION OF BUSINESS PROBLEM
 2.1 Business Problem
-Analyze the impact of student demographics and school characteristics on academic achievement. 
+Analyze the impact of student demographics and school characteristics on academic achievement. <br />
 2.2 Context
 The Ontario Ministry of Education delivers early years, childcare, and publicly funded education from Kindergarten to Grade 12 (Government of Ontario, 2023). The goal of the project is to use the provided dataset containing school information, student demographics, and student achievement data to gain insights into the factors that influence academic achievement in publicly funded elementary and secondary schools. This analysis aims to help Ontario’s Ministry of Education make data-driven decisions to improve student outcomes.
 2.3 Importance to the Organization
