@@ -3,14 +3,14 @@
 Description: Analyze the impact of student demographics and school characteristics on academic achievement in Ontario, Canada, in the period of 2017-2022. 
 
 <!-- INTRODUCTION -->
-## I. INTRODUCTION
+## I. Introduction
 This is a group project including Kylie Snow, Sonia-Deepak Patel, Hemasri Appavu-Krishnaraju, and Huy Nguyen (me).<br />
 Proposed by Huy on Oct-2023. <br />
 Date: 2-Nov-2023. <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- II. DEFINITION OF BUSINESS PROBLEM -->
-## II. DEFINITION OF BUSINESS PROBLEM
+## II. Definition of the Business Problem
 
 ### 2.1 Business Problem
 
@@ -27,7 +27,7 @@ Analyzing academic achievement and identifying student demographics and school c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- III. PROJECT OBJECTIVES -->
-## III. PROJECT OBJECTIVES
+## III. Project Objectives
 
 ### 3.1 Identify Disparities in Academic Achievement: 
 
@@ -56,7 +56,7 @@ Analyze trends over multiple years to identify any improvements or deterioration
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- IV. DESCRIPTION OF DATA -->
-## IV. DESCRIPTION OF DATA
+## IV. Description of Data
 
 ### 4.1 Data Sources
 
@@ -78,7 +78,7 @@ The data excludes private schools, Education and Community Partnership Programs 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- V. DATA ANALYSIS -->
-## V. DATA ANALYSIS
+## V. Data Analysis
 
 It's essential to preprocess the data, perform cross-validation, and evaluate the models using appropriate metrics (e.g., RMSE, R-squared) to determine which machine learning technique works best. Additionally, may need to combine and fine-tune these techniques to achieve the best results.
 Below are some machine learning techniques that are well-suited for this problem:
