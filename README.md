@@ -1,19 +1,21 @@
 # Ontario-Student-Demographics
 [ON-GOING] <br />
-Analyze the impact of student demographics and school characteristics on academic achievement in Ontario, Canada, in the period of 2017-2022. 
+Description: Analyze the impact of student demographics and school characteristics on academic achievement in Ontario, Canada, in the period of 2017-2022. 
 
 <!-- INTRODUCTION -->
 ## I. INTRODUCTION
+This is a group project including Kylie Snow, Sonia-Deepak Patel, Hemasri Appavu-Krishnaraju, and Huy Nguyen (me).
 Date: 2-Nov-2023
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-II. Definition of the Business Problem
+<!-- II. DEFINITION OF THE BUSINESS PROBLEM -->
 2.1 Business Problem
 Analyze the impact of student demographics and school characteristics on academic achievement. 
 2.2 Context
 The Ontario Ministry of Education delivers early years, childcare, and publicly funded education from Kindergarten to Grade 12 (Government of Ontario, 2023). The goal of the project is to use the provided dataset containing school information, student demographics, and student achievement data to gain insights into the factors that influence academic achievement in publicly funded elementary and secondary schools. This analysis aims to help Ontario’s Ministry of Education make data-driven decisions to improve student outcomes.
 2.3 Importance to the Organization
-Analyzing academic achievement and identifying student demographics and school characteristics that effect academic achievement will aid in Ontario’s Ministry of Education’s ability to provide early intervention for the schools that consistently underperform on standardized testing. Funding can therefore be better allocated to ensure all children can obtain a high level of education at the elementary and secondary level. 
+Analyzing academic achievement and identifying student demographics and school characteristics that effect academic achievement will aid in Ontario’s Ministry of Education’s ability to provide early intervention for the schools that consistently underperform on standardized testing. Funding can therefore be better allocated to ensure all children can obtain a high level of education at the elementary and secondary level.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 III. Project Objectives
 3.1 Identify Disparities in Academic Achievement: Analyze student achievement data for grade 3 and 6 EQAO reading, writing, and mathematics, grade 9 EQAO academic and applied results, and grade 10 OSSLT scores to identify disparities among different schools and student groups.
