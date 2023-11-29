@@ -4,8 +4,10 @@ Description: Analyze the impact of student demographics and school characteristi
 
 <!-- INTRODUCTION -->
 ## I. Introduction
-This is a group project including Kylie Snow, Sonia-Deepak Patel, Hemasri Appavu-Krishnaraju, and Huy Nguyen (me).<br />
+This is a group project including Kylie Snow, Nilani, and Huy Nguyen (me).<br />
 Proposed by Huy on Oct-2023. <br />
+My works for this project are finding the dataset, doing the cleaning and wrangling step, make visualizations with Tableau, creating geospatial heatmaps and interactive bar charts.<br />
+I also used Google Earth to create an animation and Flourish to create a mini game/quiz.<br />
 Date: 2-Nov-2023. <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
